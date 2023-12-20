@@ -1,3 +1,3 @@
 git clone https://github.com/ProExecutor/Termux-tiny
-cd main.sh
+cd Termux-tiny
 bash main.sh
